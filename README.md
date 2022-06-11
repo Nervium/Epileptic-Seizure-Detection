@@ -23,9 +23,9 @@ A total of 64 features were extracted.
 - Energy
 - Zero crossing rate
 - Peak amplitude
-- Peak to Peak Amplitude
-- Min Amplitude
-- Total Variation
+- Peak to peak amplitude
+- Min amplitude
+- Total variation
 - Line length
 - Quantile
 
@@ -43,7 +43,7 @@ A total of 64 features were extracted.
 **Time-Frequency Domain Features**
 - Mean
 - Quantile
-- Total Variation
+- Total variation
 
 **Non-Linear Features**
 - Lempel-Ziv complexity
@@ -56,7 +56,7 @@ A total of 64 features were extracted.
 **Entropy Features**
 - Shannon entropy
 - Spectral entropy
-- Singular Value Decomposition entropy
+- Singular value decomposition entropy
 - Approximate entropy
 - Sample entropy
 - Permutation entropy
