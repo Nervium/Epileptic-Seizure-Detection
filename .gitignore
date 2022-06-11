@@ -1,0 +1,918 @@
+.vscode/settings.json
+CSV Files/.DS_Store
+CSV Files/chb01/.DS_Store
+CSV Files/chb01/chb01_03.csv
+CSV Files/chb01/chb01_04.csv
+CSV Files/chb01/chb01_15.csv
+CSV Files/chb01/chb01_16.csv
+CSV Files/chb01/chb01_18.csv
+CSV Files/chb01/chb01_21.csv
+CSV Files/chb01/chb01_26.csv
+CSV Files/chb02/chb02_16+.csv
+CSV Files/chb02/chb02_19.csv
+CSV Files/chb03/chb03_01.csv
+CSV Files/chb03/chb03_02.csv
+CSV Files/chb03/chb03_03.csv
+CSV Files/chb03/chb03_04.csv
+CSV Files/chb03/chb03_34.csv
+CSV Files/chb03/chb03_35.csv
+CSV Files/chb03/chb03_36.csv
+CSV Files/chb04/chb04_05.csv
+CSV Files/chb04/chb04_08.csv
+CSV Files/chb04/chb04_28.csv
+CSV Files/chb05/chb05_06.csv
+CSV Files/chb05/chb05_13.csv
+CSV Files/chb05/chb05_16.csv
+CSV Files/chb05/chb05_17.csv
+CSV Files/chb05/chb05_22.csv
+CSV Files/chb06/chb06_01.csv
+CSV Files/chb06/chb06_04.csv
+CSV Files/chb06/chb06_09.csv
+CSV Files/chb06/chb06_10.csv
+CSV Files/chb06/chb06_13.csv
+CSV Files/chb06/chb06_18.csv
+CSV Files/chb06/chb06_24.csv
+CSV Files/chb07/chb07_12.csv
+CSV Files/chb07/chb07_13.csv
+CSV Files/chb07/chb07_19.csv
+CSV Files/chb08/chb08_02.csv
+CSV Files/chb08/chb08_05.csv
+CSV Files/chb08/chb08_11.csv
+CSV Files/chb08/chb08_13.csv
+CSV Files/chb08/chb08_21.csv
+CSV Files/chb09/chb09_06.csv
+CSV Files/chb09/chb09_08.csv
+CSV Files/chb09/chb09_19.csv
+CSV Files/chb10/chb10_12.csv
+CSV Files/chb10/chb10_20.csv
+CSV Files/chb10/chb10_27.csv
+CSV Files/chb10/chb10_30.csv
+CSV Files/chb10/chb10_31.csv
+CSV Files/chb10/chb10_38.csv
+CSV Files/chb10/chb10_89.csv
+CSV Files/chb11/chb11_82.csv
+CSV Files/chb11/chb11_92.csv
+CSV Files/chb11/chb11_99.csv
+CSV Files/chb12/chb12_06.csv
+CSV Files/chb12/chb12_08.csv
+CSV Files/chb12/chb12_09.csv
+CSV Files/chb12/chb12_10.csv
+CSV Files/chb12/chb12_11.csv
+CSV Files/chb12/chb12_23.csv
+CSV Files/chb12/chb12_27.csv
+CSV Files/chb12/chb12_28.csv
+CSV Files/chb12/chb12_29.csv
+CSV Files/chb12/chb12_33.csv
+CSV Files/chb12/chb12_36.csv
+CSV Files/chb12/chb12_38.csv
+CSV Files/chb12/chb12_42.csv
+CSV Files/chb13/chb13_19.csv
+CSV Files/chb13/chb13_21.csv
+CSV Files/chb13/chb13_40.csv
+CSV Files/chb13/chb13_55.csv
+CSV Files/chb13/chb13_58.csv
+CSV Files/chb13/chb13_59.csv
+CSV Files/chb13/chb13_60.csv
+CSV Files/chb13/chb13_62.csv
+CSV Files/chb14/chb14_03.csv
+CSV Files/chb14/chb14_04.csv
+CSV Files/chb14/chb14_06.csv
+CSV Files/chb14/chb14_11.csv
+CSV Files/chb14/chb14_17.csv
+CSV Files/chb14/chb14_18.csv
+CSV Files/chb14/chb14_27.csv
+CSV Files/chb15/chb15_06.csv
+CSV Files/chb15/chb15_10.csv
+CSV Files/chb15/chb15_15.csv
+CSV Files/chb15/chb15_17.csv
+CSV Files/chb15/chb15_20.csv
+CSV Files/chb15/chb15_22.csv
+CSV Files/chb15/chb15_28.csv
+CSV Files/chb15/chb15_31.csv
+CSV Files/chb15/chb15_40.csv
+CSV Files/chb15/chb15_46.csv
+CSV Files/chb15/chb15_49.csv
+CSV Files/chb15/chb15_52.csv
+CSV Files/chb15/chb15_54.csv
+CSV Files/chb15/chb15_62.csv
+CSV Files/chb16/chb16_10.csv
+CSV Files/chb16/chb16_11.csv
+CSV Files/chb16/chb16_14.csv
+CSV Files/chb16/chb16_16.csv
+CSV Files/chb16/chb16_17.csv
+CSV Files/chb16/chb16_18.csv
+CSV Files/chb19/chb19_28.csv
+CSV Files/chb19/chb19_29.csv
+CSV Files/chb19/chb19_30.csv
+CSV Files/chb20/chb20_12.csv
+CSV Files/chb20/chb20_13.csv
+CSV Files/chb20/chb20_14.csv
+CSV Files/chb20/chb20_15.csv
+CSV Files/chb20/chb20_16.csv
+CSV Files/chb20/chb20_68.csv
+CSV Files/chb21/chb21_19.csv
+CSV Files/chb21/chb21_20.csv
+CSV Files/chb21/chb21_21.csv
+CSV Files/chb21/chb21_22.csv
+CSV Files/chb22/chb22_20.csv
+CSV Files/chb22/chb22_25.csv
+CSV Files/chb22/chb22_38.csv
+Documents/.DS_Store
+Documents/Literature Studies/.DS_Store
+Documents/Literature Studies/A Micropower Low-Noise Neural Recording Front-End Circuit for Epileptic Seizure Detection.pdf
+Documents/Literature Studies/A Two-State Markov Mixture Model for a Time Series of Epileptic Seizure Counts.pdf
+Documents/Literature Studies/Analysis of Longitudinal Data of Epileptic Seizure Counts – A Two-State Hidden Markov Regression Approach.pdf
+Documents/Literature Studies/Anticipation of epileptic seizures from standard EEG recordings.pdf
+Documents/Literature Studies/Automated epileptic seizure detection based on break of excitation: inhibition balance.pdf
+Documents/Literature Studies/Automatic Epileptic Seizure Detection in EEG Signals Using Multi-Domain Feature Extraction and Nonlinear Analysis.pdf
+Documents/Literature Studies/b9.pdf
+Documents/Literature Studies/Back to Basics - The Pathophysiology of Epileptic Seizures - A Primer For Pediatricians.pdf
+Documents/Literature Studies/Bioelectromagnetism. 13. Electroencephalography.pdf
+Documents/Literature Studies/CEEE.2017.8412847.pdf
+Documents/Literature Studies/Classification for Imperfect EEG Epileptic Seizure in IoT applications - A Comparative Study.pdf
+Documents/Literature Studies/Classification of epileptic seizures in EEG signals based on phase space representation of intrinsic mode functions.pdf
+Documents/Literature Studies/Comparing SVM and Convolutional Networks for Epileptic Seizure Prediction from Intracranial EEG.pdf
+Documents/Literature Studies/Conditional maximum likelihood estimates for INAR(l) processes and their application to modelling epileptic seizure counts.pdf
+Documents/Literature Studies/EEG Signal Classification Using RBF Neural Network Trained With Improved PSO Algorithm for Epilepsy Identification.pdf
+Documents/Literature Studies/Efficient Epileptic Seizure Prediction based on Deep Learning.pdf
+Documents/Literature Studies/Energy_signals_matlab_tutorial.pdf
+Documents/Literature Studies/Epileptic Seizure Classification of EEG time-series using Rational Discrete Short Time Fourier Transform.pdf
+Documents/Literature Studies/Epileptic Seizure Detection in EEGs Using Time-Frequency Analysis.pdf
+Documents/Literature Studies/Epileptic seizure detection using hybrid machine learning methods.pdf
+Documents/Literature Studies/Epileptic Seizures and Epilepsy - Definitions Proposed by the International League Against Epilepsy (ILAE) and the International Bureau for Epilepsy (IBE).pdf
+Documents/Literature Studies/Epileptic Seizures Prediction Using Machine Learning Methods.pdf
+Documents/Literature Studies/feature_extraction.pdf
+Documents/Literature Studies/FFT_tutorial_NI.pdf
+Documents/Literature Studies/md.0000000000006879.pdf
+Documents/Literature Studies/Proposal for Revised Clinical and Electroencephalographic Classification of Epileptic Seizures.pdf
+Documents/Literature Studies/Psychogenic Nonepileptic Seizures versus Epileptic Seizures - An Unusual Case Report.pdf
+Documents/Literature Studies/s41598-020-65401-6.pdf
+Documents/Literature Studies/Tsallis entropy  as a new single feature with the least computation time for classification of epileptic seizures.pdf
+EDF Files/.DS_Store
+EDF Files/SUBJECT-INFO.txt
+EDF Files/chb01/chb01_03.edf
+EDF Files/chb01/chb01_03.edf.seizures
+EDF Files/chb01/chb01_04.edf
+EDF Files/chb01/chb01_04.edf.seizures
+EDF Files/chb01/chb01_15.edf
+EDF Files/chb01/chb01_15.edf.seizures
+EDF Files/chb01/chb01_16.edf
+EDF Files/chb01/chb01_16.edf.seizures
+EDF Files/chb01/chb01_18.edf
+EDF Files/chb01/chb01_18.edf.seizures
+EDF Files/chb01/chb01_21.edf
+EDF Files/chb01/chb01_21.edf.seizures
+EDF Files/chb01/chb01_26.edf
+EDF Files/chb01/chb01_26.edf.seizures
+EDF Files/chb01/chb01-summary.txt
+EDF Files/chb02/chb02_16.edf.seizures
+EDF Files/chb02/chb02_16+.edf
+EDF Files/chb02/chb02_16+.edf.seizures
+EDF Files/chb02/chb02_19.edf
+EDF Files/chb02/chb02_19.edf.seizures
+EDF Files/chb02/chb02-summary.txt
+EDF Files/chb03/chb03_01.edf
+EDF Files/chb03/chb03_01.edf.seizures
+EDF Files/chb03/chb03_02.edf
+EDF Files/chb03/chb03_02.edf.seizures
+EDF Files/chb03/chb03_03.edf
+EDF Files/chb03/chb03_03.edf.seizures
+EDF Files/chb03/chb03_04.edf
+EDF Files/chb03/chb03_04.edf.seizures
+EDF Files/chb03/chb03_34.edf
+EDF Files/chb03/chb03_34.edf.seizures
+EDF Files/chb03/chb03_35.edf
+EDF Files/chb03/chb03_35.edf.seizures
+EDF Files/chb03/chb03_36.edf
+EDF Files/chb03/chb03_36.edf.seizures
+EDF Files/chb03/chb03-summary.txt
+EDF Files/chb04/chb04_05.edf
+EDF Files/chb04/chb04_05.edf.seizures
+EDF Files/chb04/chb04_08.edf
+EDF Files/chb04/chb04_08.edf.seizures
+EDF Files/chb04/chb04_28.edf
+EDF Files/chb04/chb04_28.edf.seizures
+EDF Files/chb04/chb04-summary.txt
+EDF Files/chb05/chb05_06.edf
+EDF Files/chb05/chb05_06.edf.seizures
+EDF Files/chb05/chb05_13.edf
+EDF Files/chb05/chb05_13.edf.seizures
+EDF Files/chb05/chb05_16.edf
+EDF Files/chb05/chb05_16.edf.seizures
+EDF Files/chb05/chb05_17.edf
+EDF Files/chb05/chb05_17.edf.seizures
+EDF Files/chb05/chb05_22.edf
+EDF Files/chb05/chb05_22.edf.seizures
+EDF Files/chb05/chb05-summary.txt
+EDF Files/chb06/.DS_Store
+EDF Files/chb06/chb06_01.edf
+EDF Files/chb06/chb06_01.edf.seizures
+EDF Files/chb06/chb06_04.edf
+EDF Files/chb06/chb06_04.edf.seizures
+EDF Files/chb06/chb06_09.edf
+EDF Files/chb06/chb06_09.edf.seizures
+EDF Files/chb06/chb06_10.edf
+EDF Files/chb06/chb06_10.edf.seizures
+EDF Files/chb06/chb06_13.edf
+EDF Files/chb06/chb06_13.edf.seizures
+EDF Files/chb06/chb06_18.edf
+EDF Files/chb06/chb06_18.edf.seizures
+EDF Files/chb06/chb06_24.edf
+EDF Files/chb06/chb06_24.edf.seizures
+EDF Files/chb06/chb06-summary.txt
+EDF Files/chb07/chb07_12.edf
+EDF Files/chb07/chb07_12.edf.seizures
+EDF Files/chb07/chb07_13.edf
+EDF Files/chb07/chb07_13.edf.seizures
+EDF Files/chb07/chb07_19.edf
+EDF Files/chb07/chb07_19.edf.seizures
+EDF Files/chb07/chb07-summary.txt
+EDF Files/chb08/chb08_02.edf
+EDF Files/chb08/chb08_02.edf.seizures
+EDF Files/chb08/chb08_05.edf
+EDF Files/chb08/chb08_05.edf.seizures
+EDF Files/chb08/chb08_11.edf
+EDF Files/chb08/chb08_11.edf.seizures
+EDF Files/chb08/chb08_13.edf
+EDF Files/chb08/chb08_13.edf.seizures
+EDF Files/chb08/chb08_21.edf
+EDF Files/chb08/chb08_21.edf.seizures
+EDF Files/chb08/chb08-summary.txt
+EDF Files/chb09/chb09_06.edf
+EDF Files/chb09/chb09_06.edf.seizures
+EDF Files/chb09/chb09_08.edf
+EDF Files/chb09/chb09_08.edf.seizures
+EDF Files/chb09/chb09_19.edf
+EDF Files/chb09/chb09_19.edf.seizures
+EDF Files/chb09/chb09-summary.txt
+EDF Files/chb10/chb10_12.edf
+EDF Files/chb10/chb10_12.edf.seizures
+EDF Files/chb10/chb10_20.edf
+EDF Files/chb10/chb10_20.edf.seizures
+EDF Files/chb10/chb10_27.edf
+EDF Files/chb10/chb10_27.edf.seizures
+EDF Files/chb10/chb10_30.edf
+EDF Files/chb10/chb10_30.edf.seizures
+EDF Files/chb10/chb10_31.edf
+EDF Files/chb10/chb10_31.edf.seizures
+EDF Files/chb10/chb10_38.edf
+EDF Files/chb10/chb10_38.edf.seizures
+EDF Files/chb10/chb10_89.edf
+EDF Files/chb10/chb10_89.edf.seizures
+EDF Files/chb10/chb10-summary.txt
+EDF Files/chb11/chb11_82.edf
+EDF Files/chb11/chb11_82.edf.seizures
+EDF Files/chb11/chb11_92.edf
+EDF Files/chb11/chb11_92.edf.seizures
+EDF Files/chb11/chb11_99.edf
+EDF Files/chb11/chb11_99.edf.seizures
+EDF Files/chb11/chb11-summary.txt
+EDF Files/chb12/chb12_06.edf
+EDF Files/chb12/chb12_06.edf.seizures
+EDF Files/chb12/chb12_08.edf
+EDF Files/chb12/chb12_08.edf.seizures
+EDF Files/chb12/chb12_09.edf
+EDF Files/chb12/chb12_09.edf.seizures
+EDF Files/chb12/chb12_10.edf
+EDF Files/chb12/chb12_10.edf.seizures
+EDF Files/chb12/chb12_11.edf
+EDF Files/chb12/chb12_11.edf.seizures
+EDF Files/chb12/chb12_23.edf
+EDF Files/chb12/chb12_23.edf.seizures
+EDF Files/chb12/chb12_27.edf
+EDF Files/chb12/chb12_27.edf.seizures
+EDF Files/chb12/chb12_28.edf
+EDF Files/chb12/chb12_28.edf.seizures
+EDF Files/chb12/chb12_29.edf
+EDF Files/chb12/chb12_29.edf.seizures
+EDF Files/chb12/chb12_33.edf
+EDF Files/chb12/chb12_33.edf.seizures
+EDF Files/chb12/chb12_36.edf
+EDF Files/chb12/chb12_36.edf.seizures
+EDF Files/chb12/chb12_38.edf
+EDF Files/chb12/chb12_38.edf.seizures
+EDF Files/chb12/chb12_42.edf
+EDF Files/chb12/chb12_42.edf.seizures
+EDF Files/chb12/chb12-summary.txt
+EDF Files/chb13/chb13_19.edf
+EDF Files/chb13/chb13_19.edf.seizures
+EDF Files/chb13/chb13_21.edf
+EDF Files/chb13/chb13_21.edf.seizures
+EDF Files/chb13/chb13_40.edf
+EDF Files/chb13/chb13_40.edf.seizures
+EDF Files/chb13/chb13_55.edf
+EDF Files/chb13/chb13_55.edf.seizures
+EDF Files/chb13/chb13_58.edf
+EDF Files/chb13/chb13_58.edf.seizures
+EDF Files/chb13/chb13_59.edf
+EDF Files/chb13/chb13_59.edf.seizures
+EDF Files/chb13/chb13_60.edf
+EDF Files/chb13/chb13_60.edf.seizures
+EDF Files/chb13/chb13_62.edf
+EDF Files/chb13/chb13_62.edf.seizures
+EDF Files/chb13/chb13-summary.txt
+EDF Files/chb14/chb14_03.edf
+EDF Files/chb14/chb14_03.edf.seizures
+EDF Files/chb14/chb14_04.edf
+EDF Files/chb14/chb14_04.edf.seizures
+EDF Files/chb14/chb14_06.edf
+EDF Files/chb14/chb14_06.edf.seizures
+EDF Files/chb14/chb14_11.edf
+EDF Files/chb14/chb14_11.edf.seizures
+EDF Files/chb14/chb14_17.edf
+EDF Files/chb14/chb14_17.edf.seizures
+EDF Files/chb14/chb14_18.edf
+EDF Files/chb14/chb14_18.edf.seizures
+EDF Files/chb14/chb14_27.edf
+EDF Files/chb14/chb14_27.edf.seizures
+EDF Files/chb14/chb14-summary.txt
+EDF Files/chb15/chb15_06.edf
+EDF Files/chb15/chb15_06.edf.seizures
+EDF Files/chb15/chb15_10.edf
+EDF Files/chb15/chb15_10.edf.seizures
+EDF Files/chb15/chb15_15.edf
+EDF Files/chb15/chb15_15.edf.seizures
+EDF Files/chb15/chb15_17.edf
+EDF Files/chb15/chb15_17.edf.seizures
+EDF Files/chb15/chb15_20.edf
+EDF Files/chb15/chb15_20.edf.seizures
+EDF Files/chb15/chb15_22.edf
+EDF Files/chb15/chb15_22.edf.seizures
+EDF Files/chb15/chb15_28.edf
+EDF Files/chb15/chb15_28.edf.seizures
+EDF Files/chb15/chb15_31.edf
+EDF Files/chb15/chb15_31.edf.seizures
+EDF Files/chb15/chb15_40.edf
+EDF Files/chb15/chb15_40.edf.seizures
+EDF Files/chb15/chb15_46.edf
+EDF Files/chb15/chb15_46.edf.seizures
+EDF Files/chb15/chb15_49.edf
+EDF Files/chb15/chb15_49.edf.seizures
+EDF Files/chb15/chb15_52.edf
+EDF Files/chb15/chb15_52.edf.seizures
+EDF Files/chb15/chb15_54.edf
+EDF Files/chb15/chb15_54.edf.seizures
+EDF Files/chb15/chb15_62.edf
+EDF Files/chb15/chb15_62.edf.seizures
+EDF Files/chb15/chb15-summary.txt
+EDF Files/chb16/chb16_10.edf
+EDF Files/chb16/chb16_10.edf.seizures
+EDF Files/chb16/chb16_11.edf
+EDF Files/chb16/chb16_11.edf.seizures
+EDF Files/chb16/chb16_14.edf
+EDF Files/chb16/chb16_14.edf.seizures
+EDF Files/chb16/chb16_16.edf
+EDF Files/chb16/chb16_16.edf.seizures
+EDF Files/chb16/chb16_17.edf
+EDF Files/chb16/chb16_17.edf.seizures
+EDF Files/chb16/chb16_18.edf
+EDF Files/chb16/chb16_18.edf.seizures
+EDF Files/chb16/chb16-summary.txt
+EDF Files/chb17/chb17-summary.txt
+EDF Files/chb17/chb17a_03.edf
+EDF Files/chb17/chb17a_03.edf.seizures
+EDF Files/chb17/chb17a_04.edf
+EDF Files/chb17/chb17a_04.edf.seizures
+EDF Files/chb17/chb17b_63.edf
+EDF Files/chb17/chb17b_63.edf.seizures
+EDF Files/chb18/chb18_29.edf
+EDF Files/chb18/chb18_29.edf.seizures
+EDF Files/chb18/chb18_30.edf
+EDF Files/chb18/chb18_30.edf.seizures
+EDF Files/chb18/chb18_31.edf
+EDF Files/chb18/chb18_31.edf.seizures
+EDF Files/chb18/chb18_32.edf
+EDF Files/chb18/chb18_32.edf.seizures
+EDF Files/chb18/chb18_35.edf
+EDF Files/chb18/chb18_35.edf.seizures
+EDF Files/chb18/chb18_36.edf
+EDF Files/chb18/chb18_36.edf.seizures
+EDF Files/chb18/chb18-summary.txt
+EDF Files/chb19/chb19_28.edf
+EDF Files/chb19/chb19_28.edf.seizures
+EDF Files/chb19/chb19_29.edf
+EDF Files/chb19/chb19_29.edf.seizures
+EDF Files/chb19/chb19_30.edf
+EDF Files/chb19/chb19_30.edf.seizures
+EDF Files/chb19/chb19-summary.txt
+EDF Files/chb20/chb20_12.edf
+EDF Files/chb20/chb20_12.edf.seizures
+EDF Files/chb20/chb20_13.edf
+EDF Files/chb20/chb20_13.edf.seizures
+EDF Files/chb20/chb20_14.edf
+EDF Files/chb20/chb20_14.edf.seizures
+EDF Files/chb20/chb20_15.edf
+EDF Files/chb20/chb20_15.edf.seizures
+EDF Files/chb20/chb20_16.edf
+EDF Files/chb20/chb20_16.edf.seizures
+EDF Files/chb20/chb20_68.edf
+EDF Files/chb20/chb20_68.edf.seizures
+EDF Files/chb20/chb20-summary.txt
+EDF Files/chb21/chb21_19.edf
+EDF Files/chb21/chb21_19.edf.seizures
+EDF Files/chb21/chb21_20.edf
+EDF Files/chb21/chb21_20.edf.seizures
+EDF Files/chb21/chb21_21.edf
+EDF Files/chb21/chb21_21.edf.seizures
+EDF Files/chb21/chb21_22.edf
+EDF Files/chb21/chb21_22.edf.seizures
+EDF Files/chb21/chb21-summary.txt
+EDF Files/chb22/chb22_20.edf
+EDF Files/chb22/chb22_20.edf.seizures
+EDF Files/chb22/chb22_25.edf
+EDF Files/chb22/chb22_25.edf.seizures
+EDF Files/chb22/chb22_38.edf
+EDF Files/chb22/chb22_38.edf.seizures
+EDF Files/chb22/chb22-summary.txt
+EDF Files/chb23/chb23_06.edf
+EDF Files/chb23/chb23_06.edf.seizures
+EDF Files/chb23/chb23_08.edf
+EDF Files/chb23/chb23_08.edf.seizures
+EDF Files/chb23/chb23_09.edf
+EDF Files/chb23/chb23_09.edf.seizures
+EDF Files/chb23/chb23-summary.txt
+EDF Files/chb24/chb24_01.edf
+EDF Files/chb24/chb24_01.edf.seizures
+EDF Files/chb24/chb24_03.edf
+EDF Files/chb24/chb24_03.edf.seizures
+EDF Files/chb24/chb24_04.edf
+EDF Files/chb24/chb24_04.edf.seizures
+EDF Files/chb24/chb24_06.edf
+EDF Files/chb24/chb24_06.edf.seizures
+EDF Files/chb24/chb24_07.edf
+EDF Files/chb24/chb24_07.edf.seizures
+EDF Files/chb24/chb24_09.edf
+EDF Files/chb24/chb24_09.edf.seizures
+EDF Files/chb24/chb24_11.edf
+EDF Files/chb24/chb24_11.edf.seizures
+EDF Files/chb24/chb24_13.edf
+EDF Files/chb24/chb24_13.edf.seizures
+EDF Files/chb24/chb24_14.edf
+EDF Files/chb24/chb24_14.edf.seizures
+EDF Files/chb24/chb24_15.edf
+EDF Files/chb24/chb24_15.edf.seizures
+EDF Files/chb24/chb24_17.edf
+EDF Files/chb24/chb24_17.edf.seizures
+EDF Files/chb24/chb24_21.edf
+EDF Files/chb24/chb24_21.edf.seizures
+EDF Files/chb24/chb24-summary.txt
+Figures/.DS_Store
+Figures/Model Figures/.DS_Store
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Confusion Matrix for Evaluation.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Learning Curve for Model.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Positive Feature Importances.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - ROC Curve for All Models.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - ROC Curve for Model.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Training & Validation Accuracy Results.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Training & Validation AUC Results.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Training & Validation Precision Results.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Training & Validation Recall Results.png
+Figures/Model Figures/chb05/chb05_06/chb05_06 - Training & Validation Specificity Results.png
+Figures/Model Figures/chb05/chb05_13/.DS_Store
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Calibration Curve.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Confusion Matrix for Evaluation.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - DET Curve.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Learning Curve for Model.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Positive Feature Importances.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Precision & Recall.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - ROC Curve for All Models.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - ROC Curve for Model.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Training & Validation Accuracy Results.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Training & Validation AUC Results.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Training & Validation Precision Results.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Training & Validation Recall Results.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Training & Validation Specificity Results.png
+Figures/Model Figures/chb05/chb05_13/chb05_13 - Validation and Test Result.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Confusion Matrix for Evaluation.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Learning Curve for Model.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Positive Feature Importances.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - ROC Curve for All Models.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - ROC Curve for Model.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Training & Validation Accuracy Results.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Training & Validation AUC Results.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Training & Validation Precision Results.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Training & Validation Recall Results.png
+Figures/Model Figures/chb05/chb05_16/chb05_16 - Training & Validation Specificity Results.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Confusion Matrix for Evaluation.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Learning Curve for Model.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Positive Feature Importances.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - ROC Curve for All Models.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - ROC Curve for Model.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Training & Validation Accuracy Results.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Training & Validation AUC Results.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Training & Validation Precision Results.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Training & Validation Recall Results.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Training & Validation Specificity Results.png
+Figures/Model Figures/chb13/chb13_19/chb13_19 - Validation and Test Result.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Confusion Matrix for Evaluation.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Learning Curve for Model.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Positive Feature Importances.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - ROC Curve for All Models.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - ROC Curve for Model.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Training & Validation Accuracy Results.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Training & Validation AUC Results.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Training & Validation Precision Results.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Training & Validation Recall Results.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Training & Validation Specificity Results.png
+Figures/Model Figures/chb15/chb15_06/chb15_06 - Validation and Test Result.png
+Figures/Patient Figures/.DS_Store
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Calibration Curve.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Classification Probability.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Confusion Matrix.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - DET Curve.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Precision & Recall.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - ROC Curve.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Seizure Prediction.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Seizure Probability.png
+Figures/Patient Figures/chb01/chb01_03/chb01_03 - Test Result.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Calibration Curve.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Classification Probability.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Confusion Matrix.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - DET Curve.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Precision & Recall.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - ROC Curve.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Seizure Prediction.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Seizure Probability.png
+Figures/Patient Figures/chb01/chb01_04/chb01_04 - Test Result.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Calibration Curve.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Classification Probability.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Confusion Matrix.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - DET Curve.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Precision & Recall.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - ROC Curve.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Seizure Prediction.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Seizure Probability.png
+Figures/Patient Figures/chb01/chb01_15/chb01_15 - Test Result.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Calibration Curve.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Classification Probability.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Confusion Matrix.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - DET Curve.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Precision & Recall.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - ROC Curve.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Seizure Prediction.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Seizure Probability.png
+Figures/Patient Figures/chb01/chb01_16/chb01_16 - Test Result.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Calibration Curve.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Classification Probability.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Confusion Matrix.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - DET Curve.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Precision & Recall.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - ROC Curve.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Seizure Prediction.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Seizure Probability.png
+Figures/Patient Figures/chb01/chb01_18/chb01_18 - Test Result.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Calibration Curve.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Classification Probability.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Confusion Matrix.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - DET Curve.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Precision & Recall.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - ROC Curve.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Seizure Prediction.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Seizure Probability.png
+Figures/Patient Figures/chb03/chb03_03/chb03_03 - Test Result.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Calibration Curve.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Classification Probability.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Confusion Matrix.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - DET Curve.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Precision & Recall.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - ROC Curve.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Seizure Prediction.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Seizure Probability.png
+Figures/Patient Figures/chb05/chb05_06/chb05_06 - Test Result.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Calibration Curve.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Classification Probability.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Confusion Matrix.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - DET Curve.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Precision & Recall.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - ROC Curve.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Seizure Prediction.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Seizure Probability.png
+Figures/Patient Figures/chb05/chb05_13/chb05_13 - Test Result.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Calibration Curve.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Classification Probability.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Confusion Matrix.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - DET Curve.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Precision & Recall.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - ROC Curve.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Seizure Prediction.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Seizure Probability.png
+Figures/Patient Figures/chb06/chb06_01/chb06_01 - Test Result.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Calibration Curve.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Classification Probability.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Confusion Matrix.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - DET Curve.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Precision & Recall.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - ROC Curve.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Seizure Prediction.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Seizure Probability.png
+Figures/Patient Figures/chb06/chb06_04/chb06_04 - Test Result.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Calibration Curve.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Classification Probability.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Confusion Matrix.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - DET Curve.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Precision & Recall.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - ROC Curve.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Seizure Prediction.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Seizure Probability.png
+Figures/Patient Figures/chb06/chb06_09/chb06_09 - Test Result.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Calibration Curve.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Classification Probability.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Confusion Matrix.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - DET Curve.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Precision & Recall.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - ROC Curve.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Seizure Prediction.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Seizure Probability.png
+Figures/Patient Figures/chb06/chb06_10/chb06_10 - Test Result.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Calibration Curve.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Classification Probability.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Confusion Matrix.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - DET Curve.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Precision & Recall.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - ROC Curve.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Seizure Prediction.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Seizure Probability.png
+Figures/Patient Figures/chb06/chb06_13/chb06_13 - Test Result.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Calibration Curve.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Classification Probability.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Confusion Matrix.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - DET Curve.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Precision & Recall.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - ROC Curve.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Seizure Prediction.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Seizure Probability.png
+Figures/Patient Figures/chb08/chb08_02/chb08_02 - Test Result.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Calibration Curve.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Classification Probability.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Confusion Matrix.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - DET Curve.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Precision & Recall.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - ROC Curve.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Seizure Prediction.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Seizure Probability.png
+Figures/Patient Figures/chb08/chb08_05/chb08_05 - Test Result.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Calibration Curve.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Classification Probability.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Confusion Matrix.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - DET Curve.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Precision & Recall.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - ROC Curve.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Seizure Prediction.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Seizure Probability.png
+Figures/Patient Figures/chb09/chb09_06/chb09_06 - Test Result.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Calibration Curve.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Classification Probability.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Confusion Matrix.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - DET Curve.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Precision & Recall.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - ROC Curve.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Seizure Prediction.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Seizure Probability.png
+Figures/Patient Figures/chb09/chb09_08/chb09_08 - Test Result.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Calibration Curve.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Classification Probability.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Confusion Matrix.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - DET Curve.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Precision & Recall.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - ROC Curve.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Seizure Prediction.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Seizure Probability.png
+Figures/Patient Figures/chb09/chb09_19/chb09_19 - Test Result.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_12/chb10_12 - Test Result.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_20/chb10_20 - Test Result.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_27/chb10_27 - Test Result.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_30/chb10_30 - Test Result.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_31/chb10_31 - Test Result.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_38/chb10_38 - Test Result.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Calibration Curve.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Classification Probability.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Confusion Matrix.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - DET Curve.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Precision & Recall.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - ROC Curve.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Seizure Prediction.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Seizure Probability.png
+Figures/Patient Figures/chb10/chb10_89/chb10_89 - Test Result.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Calibration Curve.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Classification Probability.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Confusion Matrix.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - DET Curve.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Precision & Recall.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - ROC Curve.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Seizure Prediction.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Seizure Probability.png
+Figures/Patient Figures/chb11/chb11_82/chb11_82 - Test Result.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Calibration Curve.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Classification Probability.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Confusion Matrix.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - DET Curve.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Precision & Recall.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - ROC Curve.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Seizure Prediction.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Seizure Probability.png
+Figures/Patient Figures/chb11/chb11_92/chb11_92 - Test Result.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Calibration Curve.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Classification Probability.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Confusion Matrix.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - DET Curve.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Precision & Recall.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - ROC Curve.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Seizure Prediction.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Seizure Probability.png
+Figures/Patient Figures/chb11/chb11_99/chb11_99 - Test Result.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Calibration Curve.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Classification Probability.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Confusion Matrix.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - DET Curve.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Precision & Recall.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - ROC Curve.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Seizure Prediction.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Seizure Probability.png
+Figures/Patient Figures/chb13/chb13_19/chb13_19 - Test Result.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Calibration Curve.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Classification Probability.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Confusion Matrix.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - DET Curve.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Precision & Recall.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - ROC Curve.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Seizure Prediction.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Seizure Probability.png
+Figures/Patient Figures/chb13/chb13_21/chb13_21 - Test Result.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Calibration Curve.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Classification Probability.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Confusion Matrix.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - DET Curve.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Precision & Recall.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - ROC Curve.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Seizure Prediction.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Seizure Probability.png
+Figures/Patient Figures/chb13/chb13_40/chb13_40 - Test Result.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Calibration Curve.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Classification Probability.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Confusion Matrix.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - DET Curve.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Precision & Recall.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - ROC Curve.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Seizure Prediction.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Seizure Probability.png
+Figures/Patient Figures/chb13/chb13_55/chb13_55 - Test Result.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Calibration Curve.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Classification Probability.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Confusion Matrix.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - DET Curve.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Precision & Recall.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - ROC Curve.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Seizure Prediction.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Seizure Probability.png
+Figures/Patient Figures/chb13/chb13_58/chb13_58 - Test Result.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Calibration Curve.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Classification Probability.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Confusion Matrix.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - DET Curve.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Precision & Recall.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - ROC Curve.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Seizure Prediction.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Seizure Probability.png
+Figures/Patient Figures/chb14/chb14_03/chb14_03 - Test Result.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Calibration Curve.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Classification Probability.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Confusion Matrix.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - DET Curve.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Precision & Recall.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - ROC Curve.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Seizure Prediction.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Seizure Probability.png
+Figures/Patient Figures/chb14/chb14_04/chb14_04 - Test Result.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_06/chb15_06 - Test Result.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_10/chb15_10 - Test Result.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_15/chb15_15 - Test Result.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_17/chb15_17 - Test Result.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_20/chb15_20 - Test Result.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_22/chb15_22 - Test Result.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_28/chb15_28 - Test Result.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_31/chb15_31 - Test Result.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Calibration Curve.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Classification Probability.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Confusion Matrix.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - DET Curve.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Precision & Recall.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - ROC Curve.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Seizure Prediction.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Seizure Probability.png
+Figures/Patient Figures/chb15/chb15_40/chb15_40 - Test Result.png
+.DS_Store
+Epileptic Seizure Detection Model.pkl
+__pycache__/customFunctions.cpython-39.pyc
+__pycache__/models.cpython-39.pyc
