@@ -1,3 +1,4 @@
+.gitignore
 .vscode/settings.json
 CSV Files/.DS_Store
 CSV Files/chb01/.DS_Store
