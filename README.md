@@ -2,7 +2,7 @@
 
 This project was developed based on the CHB-MIT Scalp EEG Database.
 
-**Note: Needed File Formats:** *EDF Files/chbxx/chbxx_xx.edf, CSV Files/chbxx/chbxx_xx.csv*
+**Note: Needed File Formats** *EDF Files/chbxx/chbxx_xx.edf, CSV Files/chbxx/chbxx_xx.csv*
 
 ## Feature Extraction
 
